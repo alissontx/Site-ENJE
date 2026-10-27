@@ -1,0 +1,3 @@
+Cada encontro possui uma imagem própria em /images/.
+enje-01.jpg = I ENJE ... enje-38.jpg = XXXVIII ENJE.
+Substitua cada arquivo pela fotografia correspondente; não é necessário alterar o JavaScript.
