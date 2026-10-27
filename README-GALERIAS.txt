@@ -60,3 +60,8 @@ Use nomes simples e ordem numérica, por exemplo foto-01.jpg, foto-02.jpg, foto-
 ATUALIZAÇÃO DE TESTE — II ENJE (1986)
 ------------------------------------
 A pasta images/arquivo-enje/enje-1986-02 inclui fotografias iniciais e o manifesto local foi sincronizado para que apareçam mesmo ao abrir index.html diretamente. Para fotografias futuras aparecerem automaticamente sem atualizar o manifesto, utilize o site através de um servidor com PHP ativo; o gallery.php lê os ficheiros diretamente da pasta.
+
+
+ATUALIZAÇÃO — XXXVII ENJE (2024)
+--------------------------------
+Foram adicionadas fotografias fornecidas para a edição de 2024 à pasta images/arquivo-enje/enje-2024-37/. O manifesto externo e o manifesto incorporado no JavaScript foram sincronizados para que a galeria também funcione em alojamento estático e em pré-visualização local.
